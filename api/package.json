@@ -1,0 +1,21 @@
+{
+  "name": "api-fastfeet",
+  "version": "1.0.0",
+  "description": "APIREST",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luizhenriqque18"
+  },
+  "author": "Luiz Henrique Oliveira de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
